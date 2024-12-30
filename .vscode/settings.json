@@ -1,0 +1,11 @@
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "jupyter.jupyterServerType": "local",
+    "editor.formatOnSave": true,
+
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.renderIndentGuides": false,
+    "editor.hover.enabled": true,
+    "editor.hover.delay": 2000
+  
+}
